@@ -1,0 +1,28 @@
+{
+    "contact": [
+        {
+            "id":1,
+            "phone":5512345678,
+            "name":"Ana Silva",
+            "email":"ana.silva@example.com"
+        },
+        {
+            "id":2,
+            "phone":5598765432,
+            "name":"Lucas Santos",
+            "email":"lucas.santos@example.com"
+        },
+        {
+            "id":3,
+            "phone":5545678901,
+            "name":"Sofia Oliveira",
+            "email":"sofia.oliveira@example.com"
+        },
+        {
+            "id":4,
+            "phone":5576543210,
+            "name":"André Almeida",
+            "email":"andre.almeida@example.com"
+        }
+    ]
+}
